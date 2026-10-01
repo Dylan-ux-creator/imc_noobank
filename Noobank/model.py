@@ -244,4 +244,6 @@ def create_default_account() -> BankAccount:
         initial_balance=INITIAL_BALANCE,
         transactions=INITIAL_TRANSACTIONS,
         contacts=INITIAL_CONTACTS,
+
+        
     )
